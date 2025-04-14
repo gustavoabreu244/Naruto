@@ -1,0 +1,40 @@
+body{
+    background-color: slategray;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+}
+a{
+    display: block;
+    font-size: 60px;
+    text-align: center;
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    width: 500px;
+    margin: auto;
+    margin-bottom: 15px;
+    border-radius: 30px;
+}
+a:hover{
+    background-color: rgb(0, 0, 0);
+    scale: 1.2;
+}
+h2{
+    text-align: center;
+    font-size: 55px;
+    color: red;
+}
+p{
+    text-align: center;
+    font-size: 40px;
+}
+img{
+    display: block;
+    margin: auto;
+    border-radius: 30px;   
+}
+#sakura1{
+    color: white;
+}
